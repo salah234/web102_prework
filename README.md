@@ -33,7 +33,7 @@ GIF created with Ezgif
 
 Describe any challenges encountered while building the app.
 
-Some challenges were propertly interacting with the DOM using the JavaScript Functions as well as being able to align the game cards and the other divs for a seamless look
+Some challenges were propertly interacting with the DOM using the JavaScript Functions as well as being able to align the game cards and the other divs for a seamless look. In addition, being able to tell exactly which elements would be manipulated within the box model of a given div for example , the image and the caption below.
 
 ## License
 
