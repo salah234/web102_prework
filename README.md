@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 <img src='VideoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Ezgif
+GIF created with Ezgif.com (Converted from .mp4 video to .gif file via that website!)
 
 ## Notes
 
