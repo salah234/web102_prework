@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
-* [X] Added Hover Feature on upper cards of website
+* [X] Added some color on the box-shadow within upper cards of website.
 
 ## Video Walkthrough
 
